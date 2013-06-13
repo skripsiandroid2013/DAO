@@ -1,0 +1,1 @@
+06-12 16:16:31.649: E/dalvikvm-heap(12620): Out of memory on a 64-byte allocation.
